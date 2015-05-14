@@ -1,10 +1,8 @@
 [
-	{ "suit" : "spades", "rank" : "ace" }
-	{ "suit" : "spades", "rank" : "duece" }
-	{ "suit" : "hearts", "rank" : "ten" }
-	{ "suit" : "clubs", "rank" : "five" }
-	{ "suit" : "diamond", "rank" : "three" }
+	{ "suit" : "spades", "rank" : "ace" },
+	{ "suit" : "spades", "rank" : "duece", },
+	{ "suit" : "hearts", "rank" : "ten" },
+	{ "suit" : "clubs", "rank" : "five" },
+	{ "suit" : "diamond", "rank" : "three" },
 	{ "suit" : "clubs", "rank" : "three" }
-
-
 ]
